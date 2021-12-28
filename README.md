@@ -1,5 +1,5 @@
 <h1 style="text-align:center"> Web Automation-Italia|UK </h1>
-<p style="text-align:justify">Open your terminal in the folder where the script is located, prepare a file that includes line by line the images from which to remove the background (links supported), execute everything with the command: python main.pyw</p>
+<p style="text-align:justify">Open your terminal in the folder where the script is located, prepare a file that includes line by line the images from which to remove the background (links supported)</p>
 <blockquote>
     <p>- Python 3 required</p>
     <p>- The script cannot be reselled, all the credit goes to Automation-Italia|UK</p>
